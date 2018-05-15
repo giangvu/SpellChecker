@@ -7,7 +7,7 @@ $ ./trie
   SpellChecker - Please provide a word to check for spelling:
   unlooped
   unlooped is a valid English word.
-$ ./trie </br>
+$ ./trie
   SpellChecker - Please provide a word to check for spelling:
   daswerfxvdfdfsd
   daswerfxvdfdfsd is an invalid English word.
